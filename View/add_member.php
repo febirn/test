@@ -27,5 +27,5 @@ if (isset($_POST['add'])) {
 	<p><input type="file" name="photo" required></p>
 	<p><input type="text" name="date_expired" 
 		placeholder="Date Expired" required></p>
-	<button type="submit" name="add">ADD MEMBER</button>
+	<button type="submit" name="add">ADD MEMBER AREA</button>
 </form>
